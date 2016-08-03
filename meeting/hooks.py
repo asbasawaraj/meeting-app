@@ -10,6 +10,10 @@ app_icon = "octicon octicon-file-directory"
 app_color = "grey"
 app_email = "basawaraj@selco-india.com"
 app_license = "MIT"
+fixtures = ["Custom Field",
+"Property Setter",
+"Custom Script",
+"Print Format"]
 
 # Includes in <head>
 # ------------------
@@ -110,4 +114,3 @@ app_license = "MIT"
 # override_whitelisted_methods = {
 # 	"frappe.desk.doctype.event.event.get_events": "meeting.event.get_events"
 # }
-
