@@ -1,6 +1,6 @@
 ## Meeting
 
-App for meeting managemnt
+App for meeting managemnt and other tasks
 
 #### License
 
